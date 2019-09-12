@@ -8,6 +8,3 @@ set -gx PYENV_SHELL fish
 # rbenv
 status --is-interactive; and source (rbenv init -|psub)
 
-# theme-bobthefish
-set -g theme_powerline_fonts yes
-
