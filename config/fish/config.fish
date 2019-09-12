@@ -7,4 +7,3 @@ set -gx PYENV_SHELL fish
 
 # rbenv
 status --is-interactive; and source (rbenv init -|psub)
-
