@@ -35,4 +35,3 @@ fish -c 'curl -sL https://git.io/fisher | source && fisher install jorgebucaran/
 fish -c 'fisher install jethrokuan/z'
 fish -c 'fisher install laughedelic/brew-completions'
 fish -c 'fisher install matchai/spacefish'
-
