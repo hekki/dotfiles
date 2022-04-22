@@ -16,4 +16,7 @@ set SPACEFISH_RUBY_SHOW false
 # status --is-interactive; and source (rbenv init -|psub)
 
 # awscli completion
-#complete -c aws -f -a '(begin; set -lx COMP_SHELL fish; set -lx COMP_LINE (commandline); /usr/local/bin/aws_completer; end)'
+# complete -c aws -f -a '(begin; set -lx COMP_SHELL fish; set -lx COMP_LINE (commandline); /usr/local/bin/aws_completer; end)'
+
+# homebrew for M1 mac
+# set -gx PATH $PATH /opt/homebrew/bin
