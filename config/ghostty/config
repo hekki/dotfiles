@@ -1,0 +1,27 @@
+theme = tokyonight
+
+# Font
+font-family = JetBrainsMonoNL Nerd Font Mono
+font-feature = -dlig
+font-size = 15
+
+alpha-blending = linear
+
+# MacOS
+macos-titlebar-style = hidden
+macos-window-shadow = false
+
+# Window
+window-padding-x = 10
+window-padding-y = 10
+window-padding-balance = true
+
+# Cursor
+cursor-style = block
+cursor-style-blink = false
+cursor-invert-fg-bg = true
+cursor-opacity = 0.8
+
+# Other
+mouse-hide-while-typing = true
+resize-overlay = never
