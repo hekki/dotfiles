@@ -15,8 +15,12 @@ set SPACEFISH_RUBY_SHOW false
 # rbenv
 # status --is-interactive; and source (rbenv init -|psub)
 
+# nodenv
+# eval "$(nodenv init -)"
+# set -g fish_user_paths "./node_modules/.bin" $fish_user_paths
+
 # awscli completion
 # complete -c aws -f -a '(begin; set -lx COMP_SHELL fish; set -lx COMP_LINE (commandline); /usr/local/bin/aws_completer; end)'
 
 # homebrew for M1 mac
-# set -gx PATH $PATH /opt/homebrew/bin
+set -gx PATH $PATH /opt/homebrew/bin
