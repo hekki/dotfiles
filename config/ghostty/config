@@ -1,11 +1,13 @@
 theme = tokyonight
 
-# Font
-font-family = JetBrainsMonoNL Nerd Font Mono
-font-feature = -dlig
-font-size = 15
+# Shell
+shell-integration = fish
+shell-integration-features = no-cursor
 
-alpha-blending = linear
+# Font
+font-family = JetBrains Mono NL Regular
+font-feature = -calt
+font-size = 17.5
 
 # MacOS
 macos-titlebar-style = hidden
@@ -22,6 +24,8 @@ cursor-style-blink = false
 cursor-invert-fg-bg = true
 cursor-opacity = 0.8
 
-# Other
+# Input
 mouse-hide-while-typing = true
+
+# UI
 resize-overlay = never
