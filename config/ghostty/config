@@ -5,7 +5,9 @@ shell-integration = fish
 shell-integration-features = no-cursor
 
 # Font
-font-family = JetBrains Mono NL Regular
+font-family = JetBrains Mono NL
+#font-family = Hiragino Sans
+font-family = Noto Sans Mono CJK JP
 font-feature = -calt
 font-size = 17.5
 
